@@ -1,6 +1,6 @@
 import java.util.Arrays;
  
-class Main
+class Horse
 {
     // Шахматная доска `N × N`
     public static final int N = 5;
